@@ -1,100 +1,92 @@
-Johnny Coder
+Philipp Hinrichsen
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> "One of the basic rules of the universe
+> is that nothing is perfect
+> perfection simply doesn't exisit...\
+> without imperfection, neither
+> you nor I would exist." 
+>
+> -- <cite>Stephen Hawking</cite>
+
+
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2005-2010 
+:   **Bachelor of information and communcation technology**; Stenden University (Emmen, NL)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+2000-2005
+:   **Staatlich gepr&uuml;fter Informationstechnischer Assistent / Fach Abitur**; Heinz Nixdorf Berufskolleg (Essen, Ger)
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**D2iQ formerly known as Mesosphere: 2016/01 - 2020/06 (expected)**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+During my time at D2iQ I contributed mainly to the ui projects for DC/OS, Marathon and Kommander. I also was a key person in creating 
+a component library for React. But I also contributed to projects in other Languages like Go or Python. Technologies most notable we used during the time at D2iQ are:
+React, Typescript, GraphQl, RxJS, Storybook, emotion, jest and cypress. 
 
-* First item
+* Open-source repositories I contributed to during my time:
+  * [dcos-ui](https://github.com/dcos/dcos-ui)
+  * [marathon-ui](https://github.com/mesosphere/marathon-ui)
+  * [ui-kit](https://github.com/dcos-labs/ui-kit)
+  * [dcos-ui-update-service](https://github.com/dcos/dcos-ui-update-service)
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+During my time with D2iQ I also gathered a lot of domain knowledge about distributed computing and container orchestration. 
 
-**That Other Job You Had**
+**Ubilabs: 2013/04 - 2015/12**
 
-Also with a short description.
+During my time at Ubilabs I contributed to a lot of fantastic projects most notables are:
+
+* [Streetview Trek: El Capitan](https://www.google.com/maps/about/behind-the-scenes/streetview/treks/yosemite/)
+* [Streetview Trek: Miniatur Wunderland](https://www.google.com/maps/about/behind-the-scenes/streetview/treks/miniatur-wunderland/)
+* [Google Earthview](https://earthview.withgoogle.com/)
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **JavaScript / TypeScript:** I have worked in the past 7 years mostly with JavaScript or TypeScript, I have
+    at least touched the most used frameworks like `angular`, `vue` and `react`. But I have also worked a fair amount of 
+    `vanilla js` aplications. And I have worked with the not so broad used library `Closure`. My longest time however I have
+    worked with `react` and `vanilla js`, I have touched most of the libraries interconnected with react. But I am very
+    certain that I can get up to speed with any library in JavaScript in a rather short amount of time. I have also worked with
+    RxJS and GraphQl and I do understand the concepts behind these libraries. JavaScript is definitly my strong suit.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Go:** I have used Go for multiple projects during my career, I am not super profound in Go but I have a little more then a
+    basic knowledge of the language and want to extend my knowledge further. 
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   Knowledge necessary for building things: **HTML**, **CSS(and most of the preprocessors)**
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   Very basic knowledge of **Lua**, **Elixir / Erlang**, **Python**
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Side Projects
+:   **heart-for-coding (1kJS):** I once tried to build something meaningfull in less then 1k of JS and the result
+    of this challenge is [heart for coding](http://poltergeist.github.io/heart-for-coding/) 
 
-Extra Section, Call it Whatever You Want
+
+Additional Information
 ----------------------------------------
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * German (native speaker)
+     * English (2nd Language)
+     * Dutch (good working knowledge)
+     * Spanish (Basic communication skills).
 
-* Random tidbit
+* Co-Organized JSunconf for 4 years
 
-* Other sort of impressive-sounding thing you did
+* Painting plastic miniatures as a calming activity and I am a part of the [Pigment Pirates Hamburg](https://www.instagram.com/pigmentpirateshamburg/)
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <hinrichsen@sp3c1.com> • +49 151 40 41 84 67 • 36 years old\
+> Kollaustra&szlig;e 4 - 22529 Hamburg, Germany
