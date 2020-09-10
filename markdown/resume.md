@@ -23,7 +23,16 @@ Education
 Experience
 ----------
 
-**D2iQ formerly known as Mesosphere: 2016/01 - 2020/06 (expected)**
+**Tchibo GmbH 2016/01 - today **
+
+At Tchibo I am employeed as a cloud devops engineer. And I am part of the platform team. 
+
+Technologies used on a regualar basis are:
+ * gcp
+   * gke
+ * terraform
+
+**D2iQ formerly known as Mesosphere: 2016/01 - 2020/06 **
 
 During my time at D2iQ I contributed mainly to the UI projects for DC/OS, Marathon and Kommander. I also was a key person in creating a component library for React. But I also contributed to projects in other Languages like Go or Python. Technologies most notable we used during the time at D2iQ are:
 React, Typescript, GraphQl, RxJS, Storybook, emotion, jest and cypress. 
