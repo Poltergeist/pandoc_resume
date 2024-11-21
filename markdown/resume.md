@@ -28,11 +28,14 @@ At New Work I am employed as a Senior Software Engineer, i have worked in severa
 Also I got certified as a AWS Solution Architect - Associate.
 
 Technologies used on a regualar basis are:
+
 * JavaScript/TypeScript
   * React
 * Terraform
 * AWS
 * AWS CDK
+
+----
 
 **Tchibo GmbH 2020/07 - 2021/11 **
 
@@ -42,6 +45,8 @@ Technologies used on a regualar basis are:
  * gcp
    * gke
  * terraform
+
+\pagebreak
 
 **D2iQ formerly known as Mesosphere: 2016/01 - 2020/06 **
 
@@ -56,6 +61,8 @@ React, Typescript, GraphQl, RxJS, Storybook, emotion, jest and cypress.
 
 During my time with D2iQ I also gathered a lot of domain knowledge about distributed computing and container orchestration. 
 
+----
+
 **Ubilabs: 2013/04 - 2015/12**
 
 During my time at Ubilabs I contributed to a lot of fantastic projects most notables are:
@@ -63,6 +70,8 @@ During my time at Ubilabs I contributed to a lot of fantastic projects most nota
 * [Street-view Trek: El Capitan](https://www.google.com/maps/about/behind-the-scenes/streetview/treks/yosemite/)
 * [Street-view Trek: Miniatur Wunderland](https://www.google.com/maps/about/behind-the-scenes/streetview/treks/miniatur-wunderland/)
 * [Google Earthview](https://earthview.withgoogle.com/)
+
+\pagebreak
 
 Technical Experience
 --------------------
